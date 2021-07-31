@@ -5,10 +5,10 @@
     <author email="elias@i2br.com.br" href="https://i2br.com.br">Elias Lazcano Castro Neto</author>
 
     <plugin name="cordova-plugin-device" spec="~2.0.3" />
-    <plugin name="cordova-plugin-file" spec="~6.0.2" />
-    <plugin name="cordova-plugin-camera" spec="~4.1.0" />
-    <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
-    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-file" spec="^6.0.2" />
+    <plugin name="cordova-plugin-camera" spec="^5.0.2" />
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.3" />
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.5" />
 
     <!-- preferencias iOS -->
     <preference name="target-device" value="universal" />
